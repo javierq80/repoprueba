@@ -1,3 +1,7 @@
 Linea 1
 Linea 2
+<<<<<<< HEAD
 Linea 4
+=======
+Linea 3
+>>>>>>> 829493157f3b9778d7ee3b13d296820cb33cdfba
